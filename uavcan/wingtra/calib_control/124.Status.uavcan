@@ -1,0 +1,7 @@
+#
+# Wingtra MCU status during sensor calibration
+#
+
+uint8 progress
+uint16 status
+uint8 result
